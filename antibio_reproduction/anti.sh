@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -N antibiotic_training
+#$ -N chemprop
 #$ -q honda
 ##$ -l gpu=1
 #$ -pe honda 28
@@ -8,4 +8,7 @@
 #$ -e /home/shxie/aiddsummary/antibio_reproduction/error
 #$ -wd /home/shxie/aiddsummary/antibio_reproduction
 
+python antibiotic.py
 python antibio_pred.py
+python antibiotic_total.py
+python pred_zinc.py

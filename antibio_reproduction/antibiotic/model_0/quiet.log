@@ -1,0 +1,160 @@
+Fold 0
+Model 0 best validation auc = 0.909091 on epoch 4
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:11:00
+Fold 0
+Model 0 best validation auc = 0.913636 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:37
+Fold 0
+Model 0 best validation auc = 0.912338 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:46
+Fold 0
+Model 0 best validation auc = 0.903896 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:36
+Fold 0
+Model 0 best validation auc = 0.908117 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:27
+Fold 0
+Model 0 best validation auc = 0.912662 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:38
+Fold 0
+Model 0 best validation auc = 0.912013 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:44
+Fold 0
+Model 0 best validation auc = 0.908442 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:41
+Fold 0
+Model 0 best validation auc = 0.918182 on epoch 4
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:35
+Fold 0
+Model 0 best validation auc = 0.911688 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:37
+Fold 0
+Model 0 best validation auc = 0.912662 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:35
+Fold 0
+Model 0 best validation auc = 0.912662 on epoch 4
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:37
+Fold 0
+Model 0 best validation auc = 0.913636 on epoch 4
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:42
+Fold 0
+Model 0 best validation auc = 0.912013 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:33
+Fold 0
+Model 0 best validation auc = 0.912987 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:34
+Fold 0
+Model 0 best validation auc = 0.915909 on epoch 6
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:48
+Fold 0
+Model 0 best validation auc = 0.912013 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:30
+Fold 0
+Model 0 best validation auc = 0.923701 on epoch 6
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:32
+Fold 0
+Model 0 best validation auc = 0.912987 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:40
+Fold 0
+Model 0 best validation auc = 0.911688 on epoch 1
+Model 0 provided with no test set, no metric evaluation will be performed.
+Ensemble test auc = nan
+1-fold cross validation
+	Seed 0 ==> test auc = nan
+Overall test auc = nan +/- nan
+Elapsed time = 0:10:40

@@ -1,0 +1,1 @@
+chemprop_interpret --data_path antibiotic_reproduction.csv --checkpoint_dir antibiotic/model_ensem --property_id 1
